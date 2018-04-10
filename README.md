@@ -1,3 +1,3 @@
 # TopGear
 
-### [Exploratory Data Analysis] on the Automobile Dataset
+### [Exploratory Data Analysis](https://github.com/MAJgautam/TopGear/blob/master/EDA.ipynb) on the Automobile Dataset
